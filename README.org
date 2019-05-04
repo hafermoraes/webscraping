@@ -1,0 +1,5 @@
+* Raspagem de dados (/webscraping/)
+
+Scripts de aprendizado da técnica de raspagem de sites públicos usando Python.
+- =SSP_SP= raspagem do site da Secretaria de Segurança Pública de São Paulo
+- =IBGE-Cidades= raspagem do layout antigo do IBGE-Cidades
